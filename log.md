@@ -1,7 +1,7 @@
 **space syntax**
 - Hillier & Hanson; Bartlett School of Architecture 
 - corbusillier brutalism: buildings as "machines for life"
-- classrooms are spaces with pedagogical theory literally built into them. the space impacts how it is moved throughout
+- classrooms are spaces with pedagogical theory literally built into them. the space impacts how it is moved throughout (tools are not neutral.... AI is not neutral..... AI is not omnisciently smart.... why do people think that it is...... not understanding something doesn't inherently mean it is unknowable and arcane 
 - Mussolini's architects intimately understood space syntax
 - floorplans (often all we are left with in archaeological analysis) can help us understand what a space was used for: the deeper a space is the more private it is, the more open it is the more public, etc. 
 ---
