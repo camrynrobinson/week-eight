@@ -133,3 +133,7 @@ gods and interns | cogs and widgets
 
 - datacenters are now becoming priority military targets (AI determines how wars are fought)
 - 1970s: cold war necessitates the involvement of computing technologies in nuclear armament. women can't be trusted to program for war, so we need men to do their jobs. no men want to do their jobs because there is no status associated with the job. so a "priesthood" of technology is created to make it exclusive and appealing. 
+
+---
+
+[wk8 slides](https://shawngraham.github.io/hist3000-f26/slides/wk8.html#/6/3)
