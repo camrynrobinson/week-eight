@@ -137,3 +137,5 @@ gods and interns | cogs and widgets
 ---
 
 [wk8 slides](https://shawngraham.github.io/hist3000-f26/slides/wk8.html#/6/3)
+[Flinders Petrie](https://github.com/shawngraham/hist3000-f26/blob/main/assets/notebooks/practical-necromancy.ipynb)
+
